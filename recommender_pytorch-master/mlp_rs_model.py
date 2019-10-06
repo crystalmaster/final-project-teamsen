@@ -1,7 +1,3 @@
-# Author: Harshdeep Gupta
-# Date: 26 September, 2018
-# Description: A PyTorch implementation of Xiangnan's work , implementing the MLP model
-
 # PyTorch imports
 import torch
 import torch.nn.functional as F

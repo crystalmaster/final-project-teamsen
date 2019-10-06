@@ -1,8 +1,3 @@
-# Author: Harshdeep Gupta
-# Date: 02 October, 2018
-# Description: Implements the item popularity model for recommendations
-
-
 # Workspace imports
 from evaluate import evaluate_model
 from utils import test, plot_statistics

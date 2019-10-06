@@ -1,6 +1,3 @@
-# Author: Harshdeep Gupta
-# Date: 21 September, 2018
-# Description: A file for providing utility functions
 from time import time
 import pandas as pd
 import numpy as np

@@ -1,8 +1,3 @@
-# Author: Harshdeep Gupta
-# Date: 07 September, 2018
-# Description: Splits the data into train and test using the leave the latest one out strategy 
-
-
 import pandas as pd
 import numpy as np
 from utils import save_to_csv

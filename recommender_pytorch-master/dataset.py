@@ -1,7 +1,3 @@
-# Author: Harshdeep Gupta
-# Date: 22 November, 2018
-# Description: A file for implementing the Dataset interface of PyTorch
-
 import scipy.sparse as sp
 import numpy as np
 import pandas as pd
